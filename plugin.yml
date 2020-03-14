@@ -1,0 +1,5 @@
+main: me.stafftp.refillsign.RefillSign
+author: StaffTP
+version: 1.0
+name: RefillSigns
+description: Refill signs for Kitmap servers.
