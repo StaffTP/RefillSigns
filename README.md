@@ -1,5 +1,4 @@
 # RefillSigns
-Refill signs used on SagePvP, AodusORG, VeltPvP etc,
 2nd line on the sign must be &4&lRefill, 3rd line must be &4Inventory ex
 &4&lRefill
 &4Inventory
